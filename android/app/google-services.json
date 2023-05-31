@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120804568910",
+    "project_id": "flutter-app-d04b0",
+    "storage_bucket": "flutter-app-d04b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120804568910:android:e6db794992502ae6a3f81f",
+        "android_client_info": {
+          "package_name": "com.example.money_transfer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4SFVCDqtme3EhUGey7fRh0yrV61s7gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120804568910:android:5c55ac5905afca37a3f81f",
+        "android_client_info": {
+          "package_name": "com.example.money_transfer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4SFVCDqtme3EhUGey7fRh0yrV61s7gQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
